@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: Sk-Modernist,sans-serif;
+    letter-spacing: .3rem;
+}
+
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-size: 10px;
+    background-color: #111827;
+    width: 100vw;
+}
+
+.trade-page{
+  background: linear-gradient(69deg,#101422 0%,#101422 8.85%,#0e1222 23.82%,#1c306a 50.97%,#8f9bb3 80.78%,#d6dddf 100%);
+}
+
+.app{
+position: relative;
+overflow: hidden;
+min-height: 100vh;
+
+}
+.App-header_heading{
+font-family: 'Advent Pro', sans-serif;
+}
+
